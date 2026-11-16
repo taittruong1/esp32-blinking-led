@@ -26,3 +26,5 @@ The ESP32 sets a GPIO pin HIGH (3.3V) for one second, then LOW (0V) for one seco
 - Why an LED needs a resistor
 - The difference between the labels on the board and the GPIO numbers used in code
 
+## Images
+https://docs.google.com/document/d/1JjrxrtwKCytsZvnYTaHe1Gj9EO0Yx1IoI51YBKI3Px4/edit?usp=sharing
